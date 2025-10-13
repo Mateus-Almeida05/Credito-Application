@@ -1,6 +1,6 @@
-**Modelo de Crédito \- Application Score** 
+<img width="373" height="390" alt="image" src="https://github.com/user-attachments/assets/553f4241-0bb0-43d7-b8d7-4844263d84d3" />
 
-**![][image1]**
+## **Modelo de Crédito \- Application Score** 
 
 **1\. Introdução** 
 
