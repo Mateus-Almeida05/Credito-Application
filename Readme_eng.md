@@ -1,5 +1,7 @@
-# **Credit Model \- Application Score**
+<img width="373" height="390" alt="image" src="https://github.com/user-attachments/assets/553f4241-0bb0-43d7-b8d7-4844263d84d3" />
 
+# **Credit Model \- Application Score**
+ 
 ## **1\. Introduction**
 
 This project aims to develop a predictive credit model capable of estimating the probability of customer default based on their registration data, financial history, and payment behavior records.
